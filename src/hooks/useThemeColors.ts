@@ -1,5 +1,5 @@
 import { useColorModeStore } from "../store/useColorModeStore";
-import { colors } from "../styles/colorMode";
+import { colors } from "../styles/constColors";
 
 
 export const useThemeColors = () => {

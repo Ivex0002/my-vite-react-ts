@@ -1,5 +1,5 @@
 import { create } from 'zustand'
-import { themeKeys, type ColorTheme } from '../styles/colorMode';
+import { themeKeys, type ColorTheme } from '../styles/constColors';
 
 interface ColorModeState {
   mode: ColorTheme;
